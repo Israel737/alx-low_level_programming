@@ -1,11 +1,8 @@
 #include <studio.h>
 
 /**
- * main - print the string in the put function
- *
- * Description: using the main function
- * this program prints "Programming is like building a multilingual puzzle
- * Return: 0
+ * main - prints the phrase "Programming is like building a multilingual puzzle
+ * Return: 0 if exited properly, none-zero otherwise
  */
 int main(void)
 {	
